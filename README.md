@@ -12,4 +12,4 @@ The report is hosted on Power BI Service and publicly available.
 
 ## ⚡ GitHub Pages
 You can also view the embedded dashboard here (after enabling GitHub Pages):  
-➡️ `https://<bhinavthakur1024>.github.io/ecommerce-sales-dashboard/`
+➡️ `https://<abhinavthakur1024>.github.io/ecommerce-sales-dashboard/`
